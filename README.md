@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+Kleine Taschenrechner Flutter App
 
 ## Getting Started
 
